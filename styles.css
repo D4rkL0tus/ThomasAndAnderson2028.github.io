@@ -1,9 +1,9 @@
 
 body {
-    background-image: url('./images/Screenshot\ 2026-01-10\ 232458.png');
-    background-size: cover;
-    background-position: left;
-    background-attachment: fixed;
+    background-image: url('./images/GiggaChad.png');
+    background-size: contain;
+    background-position: center;
+    background-attachment: scroll;
 }
 
 .In-Your-Face-content {
@@ -26,6 +26,14 @@ body {
     font-weight: lighter;
     font-size: 1rem;
     padding: 20vh 10ww;
+}
+
+.Small-Info {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    Color: rgb(212, 175, 175);
 }
 
 .Presidents-and-VP {
