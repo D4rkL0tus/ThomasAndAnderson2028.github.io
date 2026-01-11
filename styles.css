@@ -9,12 +9,18 @@
     object-fit: cover;
 
 }
+body {
+    background-image: url('images/Screenshot\ 2026-01-10\ 232458.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 .In-Your-Face-content {
     position: relative;
     z-index: 1;
     text-align: center;
-    color: black;
+    color: rgb(189, 149, 149);
     font-family: 'Trebuchet MS';
     font-weight: bold;
     font-size: 2rem;
@@ -26,7 +32,7 @@
     z-index: 1;
     text-align: center;
     font-family: 'Trebuchet MS';
-    Color: black;
+    Color: rgb(212, 175, 175);
     font-weight: lighter;
     font-size: 1rem;
     padding: 20vh 10ww;
