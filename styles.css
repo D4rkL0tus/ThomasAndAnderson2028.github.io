@@ -1,6 +1,6 @@
 
 body {
-    background-image: url('./images/GiggaChad.png');
+    background-image: url('images/GiggaChad.png');
     background-size: contain;
     background-position: center;
     background-attachment: scroll;
@@ -10,7 +10,7 @@ body {
     position: relative;
     z-index: 1;
     text-align: center;
-    color: rgb(189, 149, 149);
+    color: rgb(38, 15, 104);
     font-family: 'Trebuchet MS';
     font-weight: bold;
     font-size: 2rem;
@@ -22,7 +22,7 @@ body {
     z-index: 1;
     text-align: center;
     font-family: 'Trebuchet MS';
-    Color: rgb(212, 175, 175);
+    Color: rgb(42, 7, 56);
     font-weight: lighter;
     font-size: 1rem;
     padding: 20vh 10ww;
@@ -33,7 +33,7 @@ body {
     z-index: 1;
     text-align: center;
     font-family: 'Trebuchet MS';
-    Color: rgb(212, 175, 175);
+    Color: rgb(13, 8, 63);
 }
 
 .Presidents-and-VP {
