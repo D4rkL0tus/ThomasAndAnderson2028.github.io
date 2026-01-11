@@ -1,0 +1,53 @@
+body {
+    background-image: url("../Images/AandT2028.png");
+    background-size: contain;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    z-index: -1;
+}
+
+.topnav {
+    background-color: #d3ad65;
+    overflow: hidden;
+    font-family:  'Trebuchet MS';
+    text-align: center;
+
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #04AA6D; 
+    color: white;
+}
+
+#BackgroundVid {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.Information {
+    font-family: 'Trebuchet MS';
+    font-size: 3rem;
+    color: rgb(197, 193, 207);
+    font-weight: bold;
+    padding: 20vh 10vw;
+    z-index: 1;
+}
