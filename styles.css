@@ -38,6 +38,10 @@ body {
     padding: 20vh 10ww;
 }
 
+.Presidents-and-VP {
+    align-items: center;
+}
+
 @media (max-width: 750px) {
     .In-Your-Face-content {
         font-size: 1.5rem;
