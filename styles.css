@@ -1,4 +1,11 @@
 
+body {
+        background-image: url("./Images/GiggaChad.png");
+        background-size: contain;
+        background-position: center;
+        background-attachment: scroll;
+        z-index: -1;
+    }
 
 
 .In-Your-Face-content {
