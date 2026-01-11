@@ -12,7 +12,7 @@ body {
     position: relative;
     z-index: 1;
     text-align: center;
-    color: rgb(38, 15, 104);
+    color: rgb(197, 193, 207);
     font-family: 'Trebuchet MS';
     font-weight: bold;
     font-size: 2rem;
@@ -24,7 +24,7 @@ body {
     z-index: 1;
     text-align: center;
     font-family: 'Trebuchet MS';
-    Color: rgb(42, 7, 56);
+    Color: rgb(213, 202, 218);
     font-weight: lighter;
     font-size: 1rem;
     padding: 20vh 10ww;
@@ -35,7 +35,7 @@ body {
     z-index: 1;
     text-align: center;
     font-family: 'Trebuchet MS';
-    Color: rgb(13, 8, 63);
+    Color: rgb(190, 189, 209);
 }
 
 .Presidents-and-VP {
