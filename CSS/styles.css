@@ -82,6 +82,12 @@ body {
     height: 100vh;
 }
 
+.Presidents-and-VP-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 @media (max-width: 750px) {
     .In-Your-Face-content {
         font-size: 1.5rem;
